@@ -1,1 +1,9 @@
 /* your code */
+#t01{border: 0px; border-collapse: collapse;
+border-radius:10px;
+overflow:hidden;}
+th{background-color : #1E5A92; color: white}
+tr:nth-child(even){background-color: silver}
+tr:nth-child(odd){background-color: white}
+th,td{padding:10px; }
+	 text-align: left;
